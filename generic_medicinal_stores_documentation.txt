@@ -1,0 +1,28 @@
+first of all my bot is all about GENERIC STORES and their locations in particular districts in A.P.
+whenever we start this bot it will take the names of the districts and it provides the names of the
+generic stores and their locations in the form of links in that particular district.
+
+modules:-
+> python-telegram-bot
+      > it contains several classes used to create python-bot
+
+commands:-
+
+/start is used to invoke the bot
+/help command is used to display all the commands available in the bot.
+> /national_portal_of_india 
+> /National_Health_Authority 
+> /Health_Insurance_Subsidies
+> /HEALTHCARE_SCHEMES 
+> /National_institute_of_health
+
+process:-
+
+when user enter the text 
+it searches for the district in the ap
+if it is a valid district of ap then it provides the names of the generic stores and their location as well
+in the form of links 
+
+it also contains some commands which is used to refer the official government websites related to the 
+medical services and subsidies..
+
